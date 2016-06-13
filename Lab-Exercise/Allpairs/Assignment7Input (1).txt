@@ -1,0 +1,7 @@
+CUSTOMERS	ACCOUNTS	STATES
+Consumers	Checking	California
+VIPConsumers	Savings	Nevada
+Businesses	Mortgage	Utah
+Non-Profits	ConsumerLoan	Idaho
+	CommercialLoan	Arizona
+		NewMexico
